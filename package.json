@@ -1,0 +1,30 @@
+{
+  "name": "g1app",
+  "version": "1.0.0",
+  "description": "G1APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sunilpedada:Sunil_1995@github.com/sunilpedada/G1APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilpedada/G1APP/issues"
+  },
+  "homepage": "https://github.com/sunilpedada/G1APP#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "cli": "^1.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev": "^1.1.1"
+  }
+}
